@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "tao_on_rails", "~> 0.10.0"
   spec.add_dependency "tao_ui", "~> 0.3.0"
-  spec.add_dependency "simple_form", "~> 3.5.0"
+  spec.add_dependency "simple_form", "~> 4.0.1"
 
   spec.add_development_dependency "sqlite3"
   spec.add_development_dependency "blade", "~> 0.7.0"
